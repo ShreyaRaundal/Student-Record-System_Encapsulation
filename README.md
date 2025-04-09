@@ -22,7 +22,7 @@ Create an Employee class with:
 empId, name, position, basicSalary
 Include a method calculateNetSalary() which adds HRA (10%) and DA (5%).
 Show encapsulation and salary calculation in main class.
-![image alt]()
+![image alt](https://github.com/ShreyaRaundal/Student-Record-System_Encapsulation/blob/eb30c41d4f6e89802c5342e6be58abdd92b0895e/Emp.png)
 
 🧩 4. Book Library System
 👉 Requirements:
