@@ -6,15 +6,15 @@ Create a class Student with private attributes:
 name, rollNo, age, grade, college
 Provide getter and setter methods.
 In a main class, create a few students and display their details
-
 ![image alt]()
-2. Car Information Manager
+
+3. Car Information Manager
 👉 Requirements:
 Create a class Car with private attributes:
 brand, model, year, price, fuelType
 Provide appropriate getters and setters.
 In CarMain, create 2-3 car objects and display their values.
-![image alt]()
+![image alt](https://github.com/ShreyaRaundal/Student-Record-System_Encapsulation/blob/7927b1b2d2b159b3b579c3de7de8831832ddb853/Car.jpg)
 
 🧩 3. Employee Payroll System
 👉 Requirements:
