@@ -38,4 +38,4 @@ Create a Movie class with:
 movieName, language, ticketPrice, availableSeats
 Provide encapsulation.
 Add method bookTicket(int numberOfTickets) that checks availability and deducts booked tickets from availableSeats.
-![image alt]()
+![image alt](https://github.com/ShreyaRaundal/Student-Record-System_Encapsulation/blob/58bf7419b74aecec118246f08155701ba0d8bb79/movieticket.png)
