@@ -5,7 +5,7 @@
 Create a class Student with private attributes:
 name, rollNo, age, grade, college
 Provide getter and setter methods.
-In a main class, create a few students and display their details
+In a main class, create a few students and display their details.
 ![image alt](https://github.com/ShreyaRaundal/Student-Record-System_Encapsulation/blob/2e9342aaa018d0bfc031badb6630122ced37f3a3/StudentRecord.png)
 
 3. Car Information Manager
