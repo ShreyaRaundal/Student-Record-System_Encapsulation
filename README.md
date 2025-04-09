@@ -30,7 +30,7 @@ Create a Book class with private fields:
 title, author, isbn, price, stock
 Add getters/setters and a method isAvailable() (returns true if stock > 0).
 In the main class, create a few books, check availability, and update stock.
-![image alt]()
+![image alt](https://github.com/ShreyaRaundal/Student-Record-System_Encapsulation/blob/cca426243321c96ada4afc110bd48f5189944fcf/Car.png)
 
 🧩 5. Movie Ticket Booking
 👉 Requirements:
