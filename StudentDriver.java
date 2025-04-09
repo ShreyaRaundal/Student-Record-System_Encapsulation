@@ -2,9 +2,9 @@ public class StudentDriver {
     public static void main(String[] args) {
 
         // create a student object using a constructor
-        Student s1=new Student("Shreya Raundal", 41, 21, 99.5, "MIT-WPU");
-        Student s2=new Student("Tanishka Shind", 42, 22, 92.5, "COEP");
-        Student s3=new Student("Shree Kulkarni", 43, 19, 86.5, "VIP Pune");
+        Student s1 = new Student("Shreya Raundal", 101, 21, 88.5, "MIT-WPU");
+        Student s2 = new Student("Aarav Mehta", 102, 20, 91.2, "COEP");
+        Student s3 = new Student("Ishika Kulkarni", 103, 22, 85.0, "VIT Pune");
 
         // Dissplay student deatail
         s1.display();
